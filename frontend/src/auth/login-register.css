@@ -1,0 +1,87 @@
+#login-form-div input {
+  background-color: rgb(111, 211, 206); 
+  color: black;
+  box-shadow: rgb(38, 114, 128) 0px 19px 38px, rgb(38, 114, 128) 0px 6px 8px;
+  color: black !important;
+}
+
+#signup-form-div input {
+  background-color: rgb(186, 210, 218) !important; 
+  color: black;
+  box-shadow: rgb(109, 147, 159) 0px 19px 38px, rgb(106, 150, 163) 0px 6px 8px;
+  color: black !important;
+}
+
+
+#login-form-div {
+  background-color: lightseagreen;
+  box-shadow: darkcyan 0px 19px 38px, darkcyan 0px 6px 8px;
+  color: black;
+  border-radius: 10px;
+}
+
+#signup-form-div {
+  background-color: rgb(155, 206, 224);
+  box-shadow: rgb(111, 143, 155) 0px 19px 38px, rgb(111, 143, 155) 0px 6px 8px;
+  color: black;
+  border-radius: 10px;
+}
+
+.form-header {
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.form-footer {
+  border-top: 2px solid white;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  text-align: center;
+  font-size: 18px;
+}
+
+form {
+  padding: 20px;
+}
+input {
+  background-color: rgb(111, 211, 206) !important;
+}
+
+
+#form-submit-btn {
+  transition: all .2s ease-in;
+  background-color: rgb(24, 134, 129) !important;
+  font-weight: 450;
+  letter-spacing: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+#form-submit-btn:hover {
+  box-shadow: 2px 8px 10px rgb(57, 95, 118);
+  background-color: rgba(20, 83, 83, 0.647) !important;
+}
+
+#signup-form-div button[type="submit"] {
+  background-color: rgba(69, 129, 150, 0.816) !important;
+}
+
+#signup-form-div .form-footer button {
+  background-color: cadetblue !important;
+}
+
+
+#form-footer-btn {
+  font-weight: 400;
+  letter-spacing: 1px;
+  background-color: #008ec3;
+
+}
+  #form-footer-btn:hover {
+  transition: all .2s ease-in;
+  background-color: #005f81 !important;
+}
+

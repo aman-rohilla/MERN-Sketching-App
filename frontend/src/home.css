@@ -1,0 +1,103 @@
+canvas {
+  background-color: rgba(158, 158, 158, 0.563);
+}
+
+.color {
+  width: 30px;
+  height: 30px;
+}
+.panel {
+  /* height: 50px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.panel-items {
+  display: flex;
+  column-gap: 7px;
+}
+
+.panel-items * {
+  padding-top: auto;
+  padding-bottom: auto;
+}
+.panel-title {
+  font-size: 18px;
+  width: 40%;
+}
+
+.panel-form {
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  column-gap: 10px;
+  display: flex;
+}
+.panel-form input {
+  background-color: aliceblue !important;
+  height: 30px;
+}
+
+.fa-square-check {
+  color: aqua;
+  cursor: pointer;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  column-gap: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 0.5px solid white;
+}
+
+.username {
+  font-size: 18px;
+  color: lightblue;
+}
+.username > span {
+  color: rgb(0, 255, 229);
+}
+.btn-sm {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.sketches {
+  position: absolute;
+  top: 70px;
+  right: 10px;
+  overflow: hidden;
+  width: 150px;
+}
+
+.accordion-button {
+  margin-right: 15px;
+  padding: 8px;
+}
+
+.accordion-body {
+  padding: 0 10px;
+}
+
+.list-group-item {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  cursor: pointer;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
