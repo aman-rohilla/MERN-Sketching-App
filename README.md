@@ -1,6 +1,6 @@
 ## MERN-Sketching-App
 
-### Technologies used: JavaScript, Node.js, Express.js, React.js, MongoDB, JWT, HTML, CSS, Bootstrap, HTML Canvas
+#### Technologies used: JavaScript, Node.js, Express.js, React.js, MongoDB, JWT, HTML, CSS, Bootstrap, HTML Canvas
 
 ### Overview
 
