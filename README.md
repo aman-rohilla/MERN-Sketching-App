@@ -6,7 +6,7 @@
 
 [Live Demo](https://www.loom.com/share/3d7dd98973144130b69359c4fabd189a)
 
-Register and login to use the app.<br/>
-Draw a sketch or update earlier and save it on the server.<br/>
-View all the sketches from all the users on the website.<br/>
-Collaborate with other users and work on same sketch.<br/>
+Register and login to use the app<br/>
+Draw a sketch or update earlier and save it on the server<br/>
+View all the sketches from all the users on the website<br/>
+Collaborate with other users and work on same sketch<br/>
